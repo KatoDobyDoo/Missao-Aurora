@@ -2,7 +2,7 @@
 
 Este repositório contém o módulo computacional central desenvolvido para a fase de operação contínua da colônia **Aurora Siger**, como parte da Atividade Integradora do curso de Ciência da Computação. O sistema evoluiu de um modelo puramente reativo para um sistema inteligente, capaz de organizar dados de sensores em tempo real, aplicar regras lógicas de decisão e prever a geração de recursos futuros por meio de regressão linear.
 
-## 🚀 Funcionamento do Sistema
+## Funcionamento do Sistema
 
 O software atua como o cérebro da infraestrutura marciana, processando variáveis críticas distribuídas por toda a base. Ele é estruturado em três pilares fundamentais:
 
@@ -12,7 +12,7 @@ O software atua como o cérebro da infraestrutura marciana, processando variáve
 
 ---
 
-## 📊 Exemplos de Entrada e Saída
+## Exemplos de Entrada e Saída
 
 O fluxo clássico de entrada, processamento e saída do protótipo gera as seguintes respostas no console de monitoramento:
 
